@@ -50,6 +50,8 @@ Or, to set the primary color to forest green, run::
     # Note: The nested quotes are needed in order to handle the hash (#) correctly.
     tutor config save --set 'INDIGO_PRIMARY_COLOR="#225522"'
 
+whenever you changed configuration, rebuild openedx docker image\
+
 Customization
 -------------
 
